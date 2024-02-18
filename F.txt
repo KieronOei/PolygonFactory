@@ -1,0 +1,14 @@
+Name:F
+Instruction:['S', (47.5, 85.0)]
+Instruction:['L', (-244.5, -109.0)]
+Instruction:['L', (-205.5, -111.0)]
+Instruction:['L', (-62.0, -18.0)]
+Instruction:['L', (-29.5, -15.0)]
+Instruction:['L', (17.0, 14.0)]
+Instruction:['L', (-10.0, 14.0)]
+Instruction:['L', (42.5, 49.0)]
+Instruction:['L', (118.0, 48.0)]
+Instruction:['L', (183.5, 93.0)]
+Instruction:['L', (47.5, 85.0)]
+Transformations:['Shear', [1.5, 0.0]]
+pattern3

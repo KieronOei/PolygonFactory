@@ -1,0 +1,8 @@
+Name:C
+Instruction:['S', (132.0, 114.0)]
+Instruction:['L', (133.0, 72.0)]
+Instruction:['R', [(133.0, 72.0), (26.0, 45.0), (20.0, -43.0), (134.0, -57.0)]]
+Instruction:['L', (136.0, -97.0)]
+Instruction:['R', [(136.0, -97.0), (-70.0, -43.0), (-78.0, 51.0), (132.0, 114.0)]]
+Transformations:['Translate', [70, 0]]
+pattern3
